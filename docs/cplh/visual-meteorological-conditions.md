@@ -6,7 +6,7 @@ import ThemedImage from '@theme/ThemedImage';
 ## Class G Airspace (Uncontrolled)
 
 <ThemedImage
-alt="Docusaurus themed image"
+alt=""
 sources={{
     light: useBaseUrl('/img/vmc-g_light.svg'),
     dark: useBaseUrl('/img/vmc-g_dark.svg'),
@@ -35,11 +35,27 @@ above 3,000 ft AMSL or 1,000 ft AGL whichever is higher:
 
 ## Class C Airspace (Major Aerodromes)
 
+<ThemedImage
+alt=""
+sources={{
+    light: useBaseUrl('/img/vmc-c_light.svg'),
+    dark: useBaseUrl('/img/vmc-c_dark.svg'),
+  }}
+/>
+
 - 1,500 m horizontally and 1,000 ft above or below cloud
 
 - Flight visibility 5 km below 10,000 ft and 8 km above 10,000 ft
 
 ## Class D Airspace (Regional Aerodromes)
+
+<ThemedImage
+alt=""
+sources={{
+    light: useBaseUrl('/img/vmc-d_light.svg'),
+    dark: useBaseUrl('/img/vmc-d_dark.svg'),
+  }}
+/>
 
 - 600 m horizontally, 1,000 ft above and 500 ft below cloud
 
