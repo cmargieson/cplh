@@ -1,3 +1,6 @@
+import useBaseUrl from '@docusaurus/useBaseUrl';
+import ThemedImage from '@theme/ThemedImage';
+
 # Alternate Requirements
 
 Check the forecasts for your route and destination within one hour of your flight. The destination forecast must be valid for 30 minutes before and 60 minutes after your estimated time of arrival (ETA). You can only nominate an aerodrome as an alternate aerodrome if the nominated aerodrome doesn’t require an alternate. Check:
@@ -41,3 +44,11 @@ An alternate aerodrome is not required if you:
     - 30 minutes when the forecast is INTER (30%)
 
     - 60 minutes when the forecast is TEMPO (60%)
+
+<ThemedImage
+alt=""
+sources={{
+    light: useBaseUrl('/img/alternate_light.svg'),
+    dark: useBaseUrl('/img/alternate_dark.svg'),
+  }}
+/>
