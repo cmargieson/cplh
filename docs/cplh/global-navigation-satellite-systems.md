@@ -1,4 +1,4 @@
-# Global Navigation Satellite Systems (GNSS)
+# Global Navigation Satellite Systems
 
 A navigation satellite system uses satellites to tell you where you are on Earth. If it can tell you your location anywhere in the world, it's called a Global Navigation Satellite System (GNSS).
 

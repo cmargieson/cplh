@@ -26,7 +26,7 @@ The CASR is made up of parts including:
 
 ### Administrative Matters
 
-[Preliminary (Part 1)](https://www.casa.gov.au/rules/regulatory-framework/casr/part-1-casr-preliminary): A general explanation of the structure of the regulations.
+- [Preliminary (Part 1)](https://www.casa.gov.au/rules/regulatory-framework/casr/part-1-casr-preliminary): A general explanation of the structure of the regulations.
 
 ### Flight Operations
 
@@ -40,7 +40,7 @@ The CASR is made up of parts including:
 
 - [Flight Crew Licensing (Part 61)](https://www.casa.gov.au/rules/regulatory-framework/casr/part-61-casr-flight-crew-licensing): Flight crew licences, ratings and endorsements.
 
-- [Recreational, private and commercial pilot flight training (Part 141)](https://www.casa.gov.au/rules/regulatory-framework/casr/part-141-casr-recreational-private-and-commercial-pilot-flight-training-other-certain-integrated-training-courses): recreational, private and commercial pilot flight training.
+- [Recreational, Private and Commercial Pilot Flight Training (Part 141)](https://www.casa.gov.au/rules/regulatory-framework/casr/part-141-casr-recreational-private-and-commercial-pilot-flight-training-other-certain-integrated-training-courses): Requirements and standards for flight training.
 
 ## Advisory Circulars
 
@@ -50,13 +50,15 @@ The CASR is made up of parts including:
 
 - [AC 91-18 - Restraints of infants and children](https://www.casa.gov.au/sites/default/files/2021-08/advisory-circular-91-18-restraints-infants-children.PDF)
 
+- [Operations in the vicinity of non-controlled aerodromes](file:///home/cmargieson/Downloads/advisory-circular-91-10-operations-vicinity-noncontrolled-aerodromes-1.pdf)
+
 ## Plain English Guides
 
 - [Visual Flight Rules Guide](https://www.casa.gov.au/resources-and-education/publications/industry-guides/pilot-guides/visual-flight-rules-guide)
 
-- [Plain English guide for general operating and flight rules](https://www.casa.gov.au/search-centre/plain-english-guides/plain-english-guide-general-operating-and-flight-rules)
+- [Plain English Guide for General Operating and Flight Rules](https://www.casa.gov.au/search-centre/plain-english-guides/plain-english-guide-general-operating-and-flight-rules)
 
-- [Plain English guide for fatigue management rules](https://www.casa.gov.au/search-centre/plain-english-guides/plain-english-guide-fatigue-management-rules)
+- [Plain English Guide for Fatigue Management Rules](https://www.casa.gov.au/search-centre/plain-english-guides/plain-english-guide-fatigue-management-rules)
 
 ## External Links
 
