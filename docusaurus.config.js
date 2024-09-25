@@ -97,9 +97,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'cplhSidebar',
+            sidebarId: 'docs',
             position: 'left',
-            label: 'CPLH',
+            label: 'Docs',
           },
         ],
       },
