@@ -1,9 +1,11 @@
-import useBaseUrl from '@docusaurus/useBaseUrl';
-import ThemedImage from '@theme/ThemedImage';
+import useBaseUrl from "@docusaurus/useBaseUrl";
+import ThemedImage from "@theme/ThemedImage";
 
 # Alternate Requirements
 
-Check the forecasts for your route and destination within one hour of your flight. The destination forecast must be valid for 30 minutes before and 60 minutes after your estimated time of arrival. You can only nominate an aerodrome as an alternate aerodrome if the nominated aerodrome doesn’t require an alternate. Check:
+Check the forecasts for your route and destination within one hour of your flight. The destination forecast must be valid for 30 minutes before and 60 minutes after your estimated time of arrival. You can only nominate an aerodrome as an alternate aerodrome if the nominated aerodrome doesn’t require an alternate.
+
+Check:
 
 - Graphical Area Forecasts (GAF)
 
@@ -20,42 +22,45 @@ An alternate aerodrome is required if your ETA is within 30 minutes of:
 ## Class G Aerodromes (Uncontrolled)
 
 <ThemedImage
-alt=""
-sources={{
-    light: useBaseUrl('/img/alternate-g_light.svg'),
-    dark: useBaseUrl('/img/alternate-g_dark.svg'),
+  alt=""
+  sources={{
+    light: useBaseUrl("/img/alternate-g_light.svg"),
+    dark: useBaseUrl("/img/alternate-g_dark.svg"),
   }}
 />
 
 An alternate aerodrome is required if:
 
-- Flight visibility less than 3km
-
 - Cloud below 1,000 ft
+
+- Flight visibility less than 3km
 
 ## Class C Aerodromes (Major) and Class D Aerodromes (Regional)
 
 <ThemedImage
-alt=""
-sources={{
-    light: useBaseUrl('/img/alternate-c-d_light.svg'),
-    dark: useBaseUrl('/img/alternate-c-d_dark.svg'),
+  alt=""
+  sources={{
+    light: useBaseUrl("/img/alternate-c-d_light.svg"),
+    dark: useBaseUrl("/img/alternate-c-d_dark.svg"),
   }}
 />
 
 An alternate aerodrome is required if:
 
-- Visibility less than 8 km
-
 - Cloud below 1,500 ft
+
+- Visibility less than 8 km
 
 An alternate aerodrome is not required if you:
 
-- Are within 50 nautical miles of your departure aerodrome
+- Are within 50 nautical miles of your departure aerodrome, or
 
 - Carry enough fuel to hold for:
 
-    - 30 minutes when the forecast is INTER (30%)
+  - 30 minutes when the forecast is INTER (30%)
 
-    - 60 minutes when the forecast is TEMPO (60%)
+  - 60 minutes when the forecast is TEMPO (60%)
 
+## External Links
+
+- [Airservices NAIPS](https://www.airservicesaustralia.com/naips/)

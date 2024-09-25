@@ -42,24 +42,30 @@ The CASR is made up of parts including:
 
 - [Recreational, Private and Commercial Pilot Flight Training (Part 141)](https://www.casa.gov.au/rules/regulatory-framework/casr/part-141-casr-recreational-private-and-commercial-pilot-flight-training-other-certain-integrated-training-courses): Requirements and standards for flight training.
 
-## Advisory Circulars
+## CASA Guidance Material
 
-- [AC 91-29 - Guidelines for helicopters – suitable places to take off and land](https://www.casa.gov.au/sites/default/files/2022-07/advisory-circular-91-29-guidelines-for-helicopters-suitable-places-to-take-off-and-land.pdf)
+Casa provides guidance to help you understand and follow the rules. If you use this information, you should be doing everything you need to fly safely and legally. However, they are not a replacement for the official rules.
 
-- [AC 91-15 Guidelines for Aircraft Fuel Requirements](https://www.casa.gov.au/guidelines-aircraft-fuel-requirements)
+### Plain English Guides
 
-- [AC 91-18 - Restraints of infants and children](https://www.casa.gov.au/sites/default/files/2021-08/advisory-circular-91-18-restraints-infants-children.PDF)
+- [Fatigue Management Rules](https://www.casa.gov.au/search-centre/plain-english-guides/plain-english-guide-fatigue-management-rules)
 
-- [Operations in the vicinity of non-controlled aerodromes](file:///home/cmargieson/Downloads/advisory-circular-91-10-operations-vicinity-noncontrolled-aerodromes-1.pdf)
-
-## Plain English Guides
+- [General Operating and Flight Rules](https://www.casa.gov.au/search-centre/plain-english-guides/plain-english-guide-general-operating-and-flight-rules)
 
 - [Visual Flight Rules Guide](https://www.casa.gov.au/resources-and-education/publications/industry-guides/pilot-guides/visual-flight-rules-guide)
 
-- [Plain English Guide for General Operating and Flight Rules](https://www.casa.gov.au/search-centre/plain-english-guides/plain-english-guide-general-operating-and-flight-rules)
+### Advisory Circulars
 
-- [Plain English Guide for Fatigue Management Rules](https://www.casa.gov.au/search-centre/plain-english-guides/plain-english-guide-fatigue-management-rules)
+- [AC 1-01 - Understanding the Legislative Framework](https://www.casa.gov.au/sites/default/files/2021-08/advisory-circular-1-01-understanding-legislative-framework.pdf)
+
+- [AC 91-10 - Operations in the Vicinity of Non-controlled Aerodromes](https://www.casa.gov.au/sites/default/files/2021-10/advisory-circular-91-10-operations-vicinity-noncontrolled-aerodromes.pdf)
+
+- [AC 91-15 Guidelines for Aircraft Fuel Requirements](https://www.casa.gov.au/sites/default/files/2021-09/advisory-circular-91-15-guidelines-aircraft-fuel-requirements.pdf)
+
+- [AC 91-18 - Restraints of Infants and Children](https://www.casa.gov.au/sites/default/files/2021-08/advisory-circular-91-18-restraints-infants-children.PDF)
+
+- [AC 91-29 - Guidelines for Helicopters – Suitable Places to Take-off and Land](https://www.casa.gov.au/sites/default/files/2022-07/advisory-circular-91-29-guidelines-for-helicopters-suitable-places-to-take-off-and-land.pdf)
 
 ## External Links
 
-- [CASA’s Regulatory Framework](https://www.casa.gov.au/rules/regulatory-framework/casas-regulatory-framework)
+- [Civil Aviation Safety Authority (CASA)](https://www.casa.gov.au/)

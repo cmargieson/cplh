@@ -1,8 +1,8 @@
 # Global Navigation Satellite Systems
 
-A navigation satellite system uses satellites to tell you where you are on Earth. If it can tell you your location anywhere in the world, it's called a Global Navigation Satellite System (GNSS).
+Navigation Satellite Systems use satellites to tell you where you are. If it can tell you your location anywhere in the world, it's called a Global Navigation Satellite System (GNSS).
 
-There are four GNSS systems:
+There are four GNSS:
 
 - The United States' Global Positioning System (GPS)
 
@@ -23,13 +23,13 @@ All four systems consist of 24 operational satellites and each system operates s
 
 ## GNSS Errors
 
-GNSS positions are typically accurate to about 15 metres. Inaccuracies in GNSS positions typically arise due to:
+GNSS positions are accurate to about 15 metres. Inaccuracies in GNSS positions arise due to:
 
 - **Signal arrival calculation errors.** Your receiver can calculate signal travel time to within 10 nanoseconds. Since signals travel over a large distance at the speed of light, this still represents a position error of about three metres.
 
-- **Atmospheric effects.** The speed of GNSS signals can vary as they travel through the atmosphere. These error is smallest when the satellite is directly overhead and becomes greater for satellites nearer the horizon since the path through the atmosphere is longer. Atmospheric effects come from dispersion of the signal in the ionosphere and the effect of humidity and pressure in the troposphere.
+- **Atmospheric effects.** The speed of GNSS signals can vary as they travel through the atmosphere. These error is smallest when the satellite is directly overhead and becomes greater for satellites nearer the horizon where the path through the atmosphere is longer. Atmospheric effects include signal dispersion in the ionosphere and the effect of humidity and pressure in the troposphere.
 
-- **Multipath effects.** Signals can bounce of objects like buildings and mountains. This is less of an issue in moving vehicles, where the reflected signals result in obviously innacurate positions.
+- **Multipath effects.** Signals can bounce off objects like buildings and mountains. This is less of an issue in moving vehicles, where the reflected signals result in obviously innacurate positions.
 
 - **Ephemeris and clock errors.** The satellite's position data (ephemeris) and its internal clock may not be perfectly accurate.
 
@@ -38,8 +38,8 @@ GNSS positions are typically accurate to about 15 metres. Inaccuracies in GNSS p
 | Source                     | Effect (m) |
 | :------------------------- | :--------: |
 | Signal arrival calculation |     3      |
-| Ionospheric Effects        |     5      |
-| Tropospheric               |    0.5     |
+| Ionospheric dispersion     |     5      |
+| Tropospheric effects       |    0.5     |
 | Multipath effects          |     1      |
 | Ephemeris errors           |    2.5     |
 | Clock errors               |     2      |
