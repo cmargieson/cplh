@@ -5,6 +5,7 @@
 const sidebars = {
   docs: [
     "introduction",
+    "bankstown-procedures",
     // "hello",
     // {
     //   type: "category",
