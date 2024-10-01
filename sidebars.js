@@ -5,7 +5,16 @@
 const sidebars = {
   docs: [
     "introduction",
-    "bankstown-procedures",
+    "alternate-requirements",
+    "civil-aviation-legislation",
+    "flying-at-bankstown",
+    "flying-at-the-standard-aerodrome",
+    "global-navigation-satellite-systems",
+    "low-level-requirements",
+    "navigation",
+    "point-of-equal-time",
+    "r405-victor-procedures",
+    "visual-meteorological-conditions",
     // "hello",
     // {
     //   type: "category",
